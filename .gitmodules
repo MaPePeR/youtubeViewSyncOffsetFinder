@@ -1,0 +1,3 @@
+[submodule "audio-offset-finder"]
+	path = audio-offset-finder
+	url = https://github.com/MaPePeR/audio-offset-finder
