@@ -12,3 +12,5 @@ Requirements:
 * `scikits.talkbox` (Apparently only works with Python 2)
 
 You should be able to install all of these with `pip` - Windows might need some extra work to get it installed.
+
+Also requires an installed `ffmpeg`!
